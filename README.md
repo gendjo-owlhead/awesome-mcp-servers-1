@@ -576,6 +576,7 @@ A growing set of community-developed and maintained servers demonstrates various
 
 - **[create-mcp-ts](https://github.com/stephencme/create-mcp-ts)** - Create a new MCP server in TypeScript, batteries included - supports user-defined templates!
 - **[LiteMCP](https://github.com/wong2/litemcp)** - A TypeScript framework for building MCP servers elegantly
+- **[mcp-contract-check](https://github.com/gendjo-owlhead/mcp-contract-check)** - Continuous contract testing, schema fuzzing, and breaking change detection GitHub Action for MCP servers
 - **[mcp-framework](https://github.com/QuantGeekDev/mcp-framework)** - Fast and elegant Typescript framework for building MCP servers
 - **[MCP Plexus](https://github.com/super-i-tech/mcp_plexus)**: A secure, **multi-tenant** Python MCP server framework built to integrate easily with external services via OAuth 2.1, offering scalable and robust solutions for managing complex AI applications.
 - **[oatpp-mcp](https://github.com/oatpp/oatpp-mcp)** - Anthropic's Model Context Protocol implementation for Oat++
